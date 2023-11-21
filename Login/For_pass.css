@@ -1,0 +1,24 @@
+h3 {
+  color: azure;
+  margin-bottom: 5rem;
+}
+label {
+  color: aliceblue;
+}
+.email {
+  color: azure;
+}
+button {
+  margin-top: 1rem;
+}
+.form-control {
+  width: 300px;
+  margin-bottom: 2rem;
+}
+.forgo {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
